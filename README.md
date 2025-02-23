@@ -5,7 +5,7 @@
 ## limitations
 
 these non-ascii glyphs
-are not included in some monospace fonts
+are not included in most monospace fonts
 
 ```
 ⸸✞☦✝✟♱☥♁✙+
